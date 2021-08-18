@@ -5,7 +5,7 @@ The platform is Arduino-Uno(Tx) and pro-micro(Rx), the 433 receiver and transmit
 
 https://lastminuteengineers.com/433mhz-rf-wireless-arduino-tutorial/
 
-The libery for the communication is RadioHead
+The library for the communication is RadioHead
 
 https://www.airspayce.com/mikem/arduino/RadioHead/
 
